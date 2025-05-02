@@ -1,4 +1,4 @@
-![logo](https://github.com/SangramBishwas/SangramBishwas/blob/main/banner-github.jpg)
+![logo](https://github.com/SangramBishwas/SangramBishwas/blob/main/banner-github.gif)
 <h1 align="center">Hi 👋, I'm Sangram</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
