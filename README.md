@@ -1,6 +1,6 @@
 ![logo](https://github.com/SangramBishwas/SangramBishwas/blob/main/banner-github.gif)
 <h1 align="center">Hi 👋, I'm Sangram</h1>
-<h3 align="center"> I am Sangram Bishwas, a passionate web application developer. Specializing in JavaScript, Typescript, React.js, Redux, Next.js and familiar with Restful APIs, Express.js and Mongoose. Proficient in frontend development and ensuring quality UI.</h3>
+<h3 align="center">I am Sangram Bishwas from Satkhira, Bangladesh. I'm a passionate web application developer. Specializing in JavaScript, Typescript, React.js, Redux, Next.js and very much familiar with Restful APIs, Express.js and Mongoose. Proficient in frontend development and ensuring quality UI.</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" alt="coding" />
 
